@@ -1,0 +1,79 @@
+header {
+  height: 50px;
+  margin: 10px 140px 0px 140px;
+}
+.header-logo h1 {
+  font-size: 24px;
+  float: left;
+}
+.header-right {
+  float:right;
+}
+.header-right li {
+  display: inline;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.header-bottom {
+  width: 100%;
+}
+.header-bottom img {
+  width: 100%;
+}
+
+.topix h1 {
+  text-align: center;
+  padding: 50px 0px;
+}
+
+main {
+  padding: 0px 200px;
+}
+
+.course {
+  padding: 300px 200px 0px 200px;
+}
+.course h1 {
+  text-align: center;
+}
+
+.capture img {
+  float: left;
+  width: 50%;
+  margin-right: 40px
+}
+.capture p { 
+  font-size: 15px;
+}
+
+.courses {
+  display: flex;
+}
+
+.courses img {
+  width: 80%;
+}
+
+.contact-form {
+  padding: 100px 0px;
+  text-align: center;
+}
+
+.contact input {
+  border-radius: 15px;
+  opacity: 0.5;
+  border: 1px solid grey;
+  padding: 15px 180px;
+}
+
+.btn input {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 20px 60px;
+  background-color: rgb(209, 100, 100);
+  color: white;
+  border-radius: 5px;
+  font-size: 15px
+}
+
